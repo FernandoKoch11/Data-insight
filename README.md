@@ -46,8 +46,8 @@ A análise identificou que clientes com contratos mensais eram mais propensos a 
 1. Clone este repositório:
 git clone  https://github.com/FernandoKoch11/seu-repositorio.git
 
-####2. Certifique-se de ter todas as bibliotecas necessárias instaladas:
-####3. Execute o Jupyter Notebook para visualizar e modificar a análise:
+2. Certifique-se de ter todas as bibliotecas necessárias instaladas:
+3. Execute o Jupyter Notebook para visualizar e modificar a análise:
 
 
 ## Autor
